@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
-    "\\src\\app"
+    "\\src\\assets",
+    "\\src\\environments"
   ],
   "SelectedNode": "\\e2e",
   "PreviewInSolutionExplorer": false
