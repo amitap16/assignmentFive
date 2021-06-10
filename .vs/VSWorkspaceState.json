@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src\\assets",
-    "\\src\\environments"
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\active-users",
+    "\\src\\app\\inactive-users",
+    "\\src\\app\\shared",
+    "\\src\\app\\shared\\services"
   ],
-  "SelectedNode": "\\e2e",
+  "SelectedNode": "\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }
